@@ -1,0 +1,168 @@
+.myrows{
+    border: 3px solid green;
+    padding: 5px;
+  }
+  .mycols{
+    border: 3px solid red;
+  }
+  .mycontainer{
+    background-color: aqua;
+  }
+#topHeader {
+    border-bottom: 1px solid #ebebeb;
+    }
+#topHeader a {
+    color: black;
+    font-weight: 600;
+    font-size: .9rem;
+    }
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+.navbar-dark {
+     background-color: #192A56;
+}
+nav ul li a{
+    font-size: .9rem;
+    font-weight: 800; 
+}
+
+ /* Start FOOTER */
+.full-footer {
+    background-color: #487EB0;
+    /* position: absolute;
+    bottom: 0;
+    width:100%; */
+}
+
+.top-footer p {
+ color:white;
+}
+.top-footer a{
+    color: white;
+    font-weight:600;
+}
+.top-footer h3 {
+    color:white;
+}
+
+.bottom-footer {
+    background-color:#192A56;
+}
+.bottom-footer p{
+    color:white;
+}
+/* End FOOTER */ 
+
+/* Start Home Page top-hero-section */
+.top-hero-section {
+    background-color:#3498DB;
+    color: white;
+}
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+
+}
+/* End Home Page top-hero-section */
+
+.img-quality {
+    width: 200px;
+}
+/* <!-- Start Home Page Req Section   */
+
+.req-section {
+    background-color: #30336B;
+    color: white;
+}
+
+/* <!-- End Home Page Req Section  --> */
+
+
+/* <!-- Start Home Page subscribe Section  --> */
+
+.subscribe {
+    background-color: #30336B;
+    color: white;
+}
+.subscribe .btn {
+    background-color: #3498DB;
+    color: white;
+    border-radius: 0 20px 20px 0;
+
+}
+.subscribe .form-control {
+    border-radius: 20px 0 0 20px;
+}
+/* <!-- End Home Page subscribe Section  --> */
+
+
+/* <!-- Start Home Page Best class services Section  --> */
+.services a {
+    font-weight: 600;
+}
+
+
+/* <!-- End Home Page Best class services Section  --> */
+
+.clients {
+    background-color:#ecf0f1;
+}
+
+.address p{
+    font-weight: 500;
+}
+
+.bar {
+    border-radius: 10px 10px 10px 10px;
+    color:white;
+    font-weight: 500;
+}
+
+.login {
+    border: #192A56 solid 2px;
+    background-color: #273c75;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.remp {
+    background-color: rgb(60, 159, 240);
+    border-radius: 20px 20px 0px 0px;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.signup {
+    border: #192A56 solid 2px;
+    background-color: #273c75;
+    border-radius: 20px 20px 20px 20px;
+}
+.login .form-control{
+    background: transparent;
+            border-top: transparent ;
+            border-left: transparent ;
+            border-right: transparent ;
+            border-bottom: 1px solid ;
+            font-weight: 00;
+            font-size: 20px;
+            color: white;
+            padding: 0;
+            margin-left: 60;
+            margin-right: 30;
+            
+
+}
+.signup .form-control {
+                background: transparent;
+                border-top: transparent ;
+                border-left: transparent ;
+                border-right: transparent ;
+                border-bottom: 1px solid ;
+                font-weight: 00;
+                font-size: 20px;
+                color: white;
+                padding: 0;
+                margin-left: 60;
+                margin-right: 30;
+}
